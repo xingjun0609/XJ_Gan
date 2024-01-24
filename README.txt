@@ -1,34 +1,25 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Gan Xing Jun | Software Developer
 
+📧 Email: ganxingjun0123@gmail.com
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Greetings! I'm Gan Xing Jun, a versatile software developer with a robust skill set and hands-on experience in a variety of technologies. Here's a snapshot of my expertise:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Technical Skills:
 
-(* = Not included)
+Web-Based Programming: HTML, JavaScript, PHP, CSS, SQL, Bootstrap, jQuery
+Framework: Laravel
+Backend Language: NodeJS
+Android Mobile App Development
+Cross-Platform App Development: Dart Programming, Flutter
+Embedded System: Arduino, ESP32 Development
+ERP Knowledge and Industry Working Experience
+About Me:
+With a solid foundation in web development, mobile app development, and embedded systems, I bring a wealth of experience to the table. From crafting responsive web applications to developing cross-platform mobile apps, my goal is to create seamless and user-friendly solutions. My expertise also extends to ERP systems, reflecting my commitment to staying at the forefront of industry advancements.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Contact:
+For inquiries or opportunities, please feel free to reach out to me via email at ganxingjun0123@gmail.com.
 
-AJ
-aj@lkn.io | @ajlkn
+Your collaboration and feedback are invaluable as I continue to contribute to diverse projects in the realm of software development.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Best regards,
+Gan Xing Jun
